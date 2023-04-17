@@ -132,4 +132,4 @@ dmypy.json
 data/
 
 # dashboard
-food_deserts_obesity/
+dashboard/
