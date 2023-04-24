@@ -19,7 +19,7 @@ Overall, the data was fairly clean, but the biggest obstacle was pulling specifi
 ## Technologies Used
 1. Excel - Exploration of the data and referencing
 2. Python/Pandas - normalization and specific aggregations on the dataset
-3. 
+3. Tableau - Visualizations and Data Story Telling
 
 ## Data Sources
 To answer the questions listed above, I used the following sources:
@@ -33,4 +33,5 @@ To answer the questions listed above, I used the following sources:
     * https://data.census.gov/table?q=state+median+income&tid=ACSST5Y2021.S1901&moe=false
 5. Obesity Rates by State
     * https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-Graph-of-Current-Adult-Obesity-Prevalence-Na/tcmp-75zb
-## Conclusion
+    
+## Tableau Story
